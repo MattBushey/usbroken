@@ -1,0 +1,1 @@
+USBroken is a framework and [Arduino](http://arduino.cc/)-based hardware platform for USB device driver fuzzing. It will allow the user to spoof arbitrary USB device IDs in order to force the loading of specific drivers, which can then be attacked.
